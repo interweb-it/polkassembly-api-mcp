@@ -19,5 +19,5 @@ yarn run dev
 
 ## Add to Cursor
 
-![image](./static/add-to-cursor.png)
+![image](./static/cursor-add-mcp.png)
 
